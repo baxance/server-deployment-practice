@@ -1,7 +1,9 @@
 # server-deployment-practice
 
 https://baxance-server-deploy-dev.herokuapp.com/
+
 https://github.com/baxance/server-deployment-practice
+
 https://github.com/baxance/server-deployment-practice/pull/2
 
 # LAB: Node Ecosystem, CI, CD
